@@ -1,9 +1,16 @@
-﻿/mbed
+﻿[mbed]
+/mbed/SevenSeg_senTmp2_v3
 7 segment LED  2Dig ,display driver
+LM60BIZ sensor
 
+*) old version:
+/mbed/SevenSeg_senTmp2_v2
+MCP9700 sensor
+
+[arduino]
 /arduino
 esp8266 ,http send
-[arduino SDK] 1.6.5
+arduino SDK: 1.6.5
 
 *)
 [Youtube]
